@@ -12085,7 +12085,7 @@ StartMainLoops()
 Fluent:Notify({
   Title = "zeox.xyz/System",
   Content = "Welcome To Apple Cat Hub",
-  Icon = "rbxassetid://111499841631439",
+  Icon = "rbxassetid://109364250143878",
   Type = "Info",
   Duration = 5
 })
